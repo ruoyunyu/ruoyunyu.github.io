@@ -6,14 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "Loughborough-UK"
-title                    : "Ye Wei"
+locale                   : "Nanjing-CN"
+title                    : "Ruoyun Yu"
 title_separator          : "-"
-name                     : &name "Ye Wei"
-description              : &description "Ph.D. student at Loughborough University major in Computer Science."
+name                     : &name "Ruoyun Yu"
+description              : &description "Postgraduate student at Nanjing University major in Logics."
 url                      : https://ruoyunyu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Ye-We1/academicpages.github.io"
+repository               : "ruoyunyu/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ye Wei"
+  name             : "Ruoyun Yu"
   avatar           : "profile.png"
   bio              : "Ph.D. student at Loughborough University major in Computer Science."
   location         : "Loughborough, UK"
