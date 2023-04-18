@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Ruoyun Yu"
   avatar           : "profile.png"
-  bio              : "Ph.D. student at Loughborough University major in Computer Science."
-  location         : "Loughborough, UK"
+  bio              : "Postgraduate student at Nanjing University major in Logics."
+  location         : "Nanjing, CN"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :  # "http://yourfullgooglescholarurl.com"
-  email            :  "ye.wei.021@gmail.com"
+  email            :  "ruoyun.yu123@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Ye-We1"
+  github           : "ruoyunyu"
   google_plus      :
   keybase          :
   instagram        :
