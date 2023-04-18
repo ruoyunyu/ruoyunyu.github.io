@@ -15,7 +15,7 @@ Education
 * Postgraduate research student of Logics, Nanjing University (Sep. 2021 - Present)
   * Supervised by Prof. Lifeng Zhang
 
-Research experience
+<!-- Research experience
 ======
 * Oct. 2021 - Present: Phd Research
   * Using MATSim, an agent-based modelling framework, to implement transportation simulation
@@ -37,12 +37,12 @@ Projects
 * Nov. 2019: MIPS computer in Verilog
   * Model both single cycle and pipelined implementation of MIPS computer in Verilog.
   * Support a subset of MIPS instruction, including memory-reference instructions(save&load), arithmeticlogical instructions(add, sub, slt, etc.) and jumping instructions(beq, jump, etc.).
-  * Instructor: Professor Gang Zheng
+  * Instructor: Professor Gang Zheng -->
 
 Skills
 ======
-* Technical Skills
-  * Python, C/C++, Matlab, Verilog, NI Multisim, JavaScript, Arduino; LaTeX
+<!-- * Technical Skills
+  * Python, C/C++, Matlab, Verilog, NI Multisim, JavaScript, Arduino; LaTeX -->
 * Language
   * Mandarin(Native), English
 
