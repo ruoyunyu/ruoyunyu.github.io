@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* BSc in Electrical and Computer Engineering, Shanghai Jiao Tong University (Sept. 2017 – Aug. 2021)
-* PhD research at Department of Computer Science, Loughborough University (Oct. 2021 - Present)
-  * Supervised by Dr Hui Fang and Dr Haitao He
+* B.Phil in Philosophy, Nanjing University (Sept. 2017 – Aug. 2021)
+* Postgraduate research student of Logics, Nanjing University (Sep. 2021 - Present)
+  * Supervised by Prof. Lifeng Zhang
 
 Research experience
 ======
