@@ -12,8 +12,12 @@ redirect_from:
 Education
 ======
 * B.Phil in Philosophy, Nanjing University (Sept. 2017 – Aug. 2021)
+  * Honors: Outstanding Graduate of the Department of Philosophy, Undergraduate Excellent Graduation Thesis, 2020 First Prize of the People’s Scholarship, 2019 Guanghua Scholarship, 2018 First Prize of the People’s Scholarship
 * Postgraduate research student of Logics, Nanjing University (Sep. 2021 - Present)
   * Supervised by Prof. Lifeng Zhang
+  * Honors: 2022 Academic Year Graduate Scholarship First Prize
+* University of California, Berkeley (Exchange study for Fall 2022)
+  
 
 <!-- Research experience
 ======
